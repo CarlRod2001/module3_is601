@@ -1,4 +1,5 @@
 # 📦 Project Setup
+![CI](https://github.com/CarlRod2001/module3_is601/actions/workflows/tests.yml/badge.svg)
 
 ---
 
